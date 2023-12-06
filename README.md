@@ -1,3 +1,7 @@
+### I'm Alex,
+a front and backend developer mostly working with lua. I don't do a lot of projects, especially not a lot of public.
+
+Usually not up for hire nor commission but will work with friends on projects.
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexIsAway&show_icons=true&theme=tokyonight)\
 ![](https://img.shields.io/badge/OS-Windows-purple?logo=windows)
 ![](https://img.shields.io/badge/Code-Python-purple?logo=python)
