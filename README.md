@@ -1,4 +1,4 @@
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexIsAway&show_icons=true&theme=tokyonight)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexIsAway&show_icons=true&theme=tokyonight)\
 ![](https://img.shields.io/badge/OS-Windows-purple?logo=windows)
 ![](https://img.shields.io/badge/Code-Python-purple?logo=python)
 ![](https://img.shields.io/badge/Code-JavaScript-purple?logo=javascript)
