@@ -1,4 +1,4 @@
-### I'm Alex,
+### Hey there! I'm Alex,
 a front and backend developer working with all sorts of languages. I don't do a lot of projects, especially not a lot of public ones.
 
 daily ![](https://img.shields.io/badge/DWM-black?logo=dwm) user, ex-windows nerd, AI enthusiast, highschool student, and ![](https://img.shields.io/badge/Firefox-black?logo=firefox) lover
