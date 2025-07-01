@@ -1,7 +1,7 @@
 ### Hey there! I'm Alex,
 a front and backend developer working with all sorts of languages. I don't do a lot of projects, especially not a lot of public ones.
 
-daily ![](https://img.shields.io/badge/DWM-black?logo=dwm) user, ex-windows nerd, AI enthusiast, highschool student, and ![](https://img.shields.io/badge/Vivaldi-black?logo=vivaldi) lover
+daily ![](https://img.shields.io/badge/Arch-black?logo=archlinux) user, ex-windows nerd, AI enthusiast, highschool student, and ![](https://img.shields.io/badge/Librewolf-black?logo=librewolf) lover.
 
 Usually not up for hire nor commission. DM if interested though!!
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexIsAway&show_icons=true&theme=tokyonight)\
